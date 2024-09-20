@@ -1,0 +1,13 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.dropdown-toggle::after {
+    content: none;
+}
+
+.dropdown-item:hover {
+    background-color: #26244BE6;
+    color: white;
+}
